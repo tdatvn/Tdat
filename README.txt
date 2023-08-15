@@ -1,4 +1,6 @@
 |ㅤㅤㅤ# Tdatㅤㅤㅤ|ㅤㅤㅤ
+#Download ZIP
+#Extract ZIP file
 1/
 #Open keobuabao.py with Pythonㅤㅤㅤ|ㅤㅤㅤ
 2/
