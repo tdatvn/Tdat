@@ -1,4 +1,4 @@
-|ㅤㅤㅤ# Tdatㅤㅤㅤ|
+|ㅤㅤㅤ# Tdatㅤㅤㅤ|ㅤㅤㅤ
 1/
 #Open keobuabao.py with Pythonㅤㅤㅤ|ㅤㅤㅤ
 2/
